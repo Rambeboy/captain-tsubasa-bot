@@ -34,7 +34,7 @@
 
 1. Clone project repository
    ```
-   git clone https://github.com/Rambeboy/captain-tsubasa-bot && cd captain-tsubasa-bot
+   git clone https://github.com/Rambeboy/captain-tsubasa-bot.git && cd captain-tsubasa-bot
    ```
 2. Install dependencies
    ```
