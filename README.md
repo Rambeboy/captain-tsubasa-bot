@@ -4,7 +4,9 @@
 
 **AIRDROP** : Captain Tsubasa Rivals
 
-🎁 Reward confirmed and potential listing on Binance.
+🎁 Reward: Confirmed and potential listing on Binance
+
+📍 Register: [Register Here](https://t.me/TsubasaRivalsBot/start?startapp=inviter_id-6896240442)
 
 - Connect Tonkeeper 
 - Complete Task
@@ -130,18 +132,23 @@ To update bot follow this step :
 ## SETUP ACCOUNTS
 
 1. Run bot `npm run start`
+
 2. Choose option `1` to create account
+
 3. Choose account type `Query` or `Sessions`
+
 4. `Session` Type
-   1. Enter Account Name
-   2. Enter your phone number starting with countrycode ex : `+628xxxxxxxx`
-   3. You will be asked for verification code and password (if any)
-   4. Start The bot Again after account creation complete
-5. `Query` Type
-   1. Enter Account Name
-   2. Enter Telegram Query (you can get query by opening bot app on browser > inspect element > storage / application > session storage > telegram init params > copy tg web app data value)
-   3. Start The bot Again after account creation complete
-6. After bot started choose option `3` start bot
+- Enter Account Name
+- Enter your phone number starting with countrycode ex : `+628xxxxxxxx`
+- You will be asked for verification code and password (if any)
+- Start The bot Again after account creation complete
+
+6. `Query` Type
+- Enter Account Name
+- Enter Telegram Query (you can get query by opening bot app on browser > inspect element > storage / application > session storage > telegram init params > copy tg web app data value)
+- Start The bot Again after account creation complete
+
+7. After bot started choose option `3` start bot
 
 ## SESSION TROUBLESHOOT
 
